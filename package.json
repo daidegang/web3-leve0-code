@@ -1,0 +1,23 @@
+{
+  "name": "com.tech.levezero",
+  "version": "1.0.0",
+  "description": "Solidity practice code",
+  "main": "index.js",
+  "scripts": {
+    "test": "solidity practice code test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/daidegang/web3-leve0-code.git"
+  },
+  "author": "Bellamy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daidegang/web3-leve0-code/issues"
+  },
+  "homepage": "https://github.com/daidegang/web3-leve0-code#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.5"
+  }
+}
